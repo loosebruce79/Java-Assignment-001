@@ -4,6 +4,15 @@ public class JurassicPark {
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
     public static void main(String[] args) {
+        /**
+         *
+         * @author Trevor Hartman
+         * @author <Bud Ross>
+         *
+         * @since Version 1.0
+         *
+         */
         // Write your program here
+        System.out.print("Life, uh,\nfinds a way.\n-Ian Malcom\n");
     }
 }
